@@ -57,6 +57,6 @@ This salary prediction model can be used to make informed salary estimates based
 ## DEVELOPED BY
 SANGINENI SUMANTH
 Kakatiya Institute Of Technology And Science
-CSE (Networks) | AICTE ID: STU670e8c1919a151729006617
+CSE (Networks) | AICTE ID: STU682369d5dcec41747151317
 Email: b23cn070@kitsw.ac.in# salary_prediction
 
