@@ -54,5 +54,9 @@ The model evaluation and feature importance analysis provided valuable insights 
 
 This salary prediction model can be used to make informed salary estimates based on individual characteristics, making it a valuable tool for HR analytics and compensation planning.In conclusion, our salary prediction model, trained on a well-preprocessed dataset, successfully predicts salaries based on various factors. This project demonstrates the importance of data preprocessing, feature engineering, and model selection in creating an accurate predictive model.
 
-
+## DEVELOPED BY
+SANGINENI SUMANTH
+Kakatiya Institute Of Technology And Science
+CSE (Networks) | AICTE ID: STU670e8c1919a151729006617
+Email: b23cn070@kitsw.ac.in# salary_prediction
 
